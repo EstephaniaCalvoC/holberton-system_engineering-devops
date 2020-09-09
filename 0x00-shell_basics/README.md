@@ -1,4 +1,4 @@
 ##Readme 0x00.Shell, basics
 
 About it
-- This project contain some basic bash scripts.
+- 0-current_working_directory: Prints the absolute path name of the current working directory.
