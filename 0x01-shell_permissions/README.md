@@ -18,4 +18,5 @@
 - **10-mirror_permissions:** Set the mode of the file hello the same as olleh’s mode
 - **11-directories_permissions:** Add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 - **12-directory_permissions:** Create a directory called dir_holberton with permissions 751 in the working directory.
-- **13-change_group:** Changes the group owner to holberton for the file hello.
+- **13-change_group:** Change the group owner to holberton for the file hello.
+- **14-change_owner_and_group:** Change the owner to betty and the group owner to holberton for all the files and directories in the working directory.
