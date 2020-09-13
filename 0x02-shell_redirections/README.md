@@ -10,3 +10,4 @@
 - **5-firstlines:** Display the first 10 lines of /etc/passwd
 - **6-third_line:** Display the third line of the file iacta.
 - **7-file:** Create a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School.
+- **8-cwd_state:** Write into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
