@@ -13,3 +13,5 @@
 - **8-true_knowledge:** Print the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 - **9-divide_and_rule:** Print the result of POWER divided by DIVIDE.
 - **10-love_exponent_breath:** Display the result of BREATH to the power LOVE.
+- **11-binary_to_decimal:** Convert a number from base 2 to base 10.
+- **12-combinations:** Print all possible combinations of two letters, except oo.
