@@ -16,3 +16,4 @@
 - **11-binary_to_decimal:** Convert a number from base 2 to base 10.
 - **12-combinations:** Print all possible combinations of two letters, except oo.
 - **13-print_float:** Print a number with two decimal places.
+- **14-decimal_to_hexadecimal:** Convert a number from base 10 to base 16.
