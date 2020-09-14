@@ -7,3 +7,4 @@
 - **2-path:** Add /action to the PATH.
 - **3-paths:** Count the number of directories in the PATH.
 - **4-global_variables:** List environment variables.
+- **5-local_variables:** List all local variables and environment variables, and functions.
