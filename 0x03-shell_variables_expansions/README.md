@@ -17,3 +17,5 @@
 - **12-combinations:** Print all possible combinations of two letters, except oo.
 - **13-print_float:** Print a number with two decimal places.
 - **14-decimal_to_hexadecimal:** Convert a number from base 10 to base 16.
+- **100-empty_casks:** Find all empty files and directories in the current directory and all sub-directories.
+- **101-gifs:** List all the files with a .gif extension in the current directory and all its sub-directories.
