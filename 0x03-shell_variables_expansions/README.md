@@ -18,3 +18,4 @@
 - **13-print_float:** Print a number with two decimal places.
 - **14-decimal_to_hexadecimal:** Convert a number from base 10 to base 16.
 - **100-rot13:** Encode and decode text using the rot13 encryption.
+- **101-odd:** Print every other line from the input, starting with the first line.

@@ -1,0 +1,2 @@
+#!/bin/bash
+xargs -n 2 | cut -d" " -f1 
