@@ -2,9 +2,9 @@
 #Display bath look, good luck at the 4th and 8th lines respectively
 #Display Holberton School at the other lines.
 
-i=0
+i=1
 
-while [ $i -lt 10 ]
+while [ $i -lt 11 ]
 do
     if [ $i -eq 4 ]
     then
@@ -15,4 +15,5 @@ do
     else
 	echo "Holberton School"
     fi
+    (( i++ ))
 done
