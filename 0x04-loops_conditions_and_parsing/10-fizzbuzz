@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #FizzBuzz
 
-for (( i=0; i<101; i++ ))
+for (( i=1; i<101; i++ ))
     do
     if [ $(( i % 15)) -eq 0 ]
     then
