@@ -44,11 +44,11 @@ What I learned from this project:
 ### [5. 4 bad luck, 8 is your chance](./5-4_bad_luck_8_is_your_chance)
 * A Bash script that display bad luck, good luck for 4th and 8th lines, and Holberton in the other lines.
 
-<!--
+
 ### [6. Superstitious numbers](./6-superstitious_numbers)
-* Write a Bash script that displays numbers from 1 to 20 and:
+* A Bash script that displays numbers from 1 to 20 and display a message depending of the line.
 
-
+<!--
 ### [7. Clock](./7-clock)
 * Write a Bash script that displays the time for 12 hours and 59 minutes:
 
