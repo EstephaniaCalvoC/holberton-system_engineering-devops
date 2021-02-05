@@ -48,11 +48,11 @@ What I learned from this project:
 ### [6. Superstitious numbers](./6-superstitious_numbers)
 * A Bash script that displays numbers from 1 to 20 and display a message depending of the line.
 
-<!--
+
 ### [7. Clock](./7-clock)
-* Write a Bash script that displays the time for 12 hours and 59 minutes:
+* A Bash script that displays the time for 12 hours and 59 minutes.
 
-
+<!--
 ### [8. For ls](./8-for_ls)
 * Write a Bash script that displays:
 
