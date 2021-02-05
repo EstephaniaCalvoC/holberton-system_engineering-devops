@@ -6,11 +6,11 @@ h=0
 while [ $h -lt 13 ]
 do
     echo "Hour: $h"
-    m=0
+    m=1
     while [ $m -lt 60 ]
     do
 	echo "$m"
 	(( m++ ))
     done
-    (( hour++ ))
+    (( h++ ))
 done
