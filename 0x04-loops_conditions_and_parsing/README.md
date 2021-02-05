@@ -24,15 +24,15 @@ What I learned from this project:
 ### [0. Create a SSH RSA key pair](./0-RSA_public_key.pub)
 * Public SSH key.
 
-<!--
+
 ### [1. For Holberton School loop](./1-for_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* A Bash script that displays Holberton School 10 times.
 
 
 ### [2. While Holberton School loop](./2-while_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* A Bash script that displays Holberton School 10 times.
 
-
+<!--
 ### [3. Until Holberton School loop](./3-until_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
