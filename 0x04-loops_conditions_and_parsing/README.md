@@ -56,14 +56,14 @@ What I learned from this project:
 ### [8. For ls](./8-for_ls)
 * Write a Bash script that displays the list of the files in the current path without number prefix.
 
-<!--
+
 ### [9. To file, or not to file](./9-to_file_or_not_to_file)
-* Write a Bash script that gives you information about the holbertonschool file.
+* A Bash script that gives you information about the holbertonschool file.
 
 
 ### [10. FizzBuzz](./10-fizzbuzz)
-* Write a Bash script that displays numbers from 1 to 100.
--->
+* A Bash script that displays FizzBuzz in list format.
+
 ---
 
 ## Author
