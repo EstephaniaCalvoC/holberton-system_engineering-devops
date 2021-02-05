@@ -32,19 +32,19 @@ What I learned from this project:
 ### [2. While Holberton School loop](./2-while_holberton_school)
 * A Bash script that displays Holberton School 10 times.
 
-<!--
+
 ### [3. Until Holberton School loop](./3-until_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* A Bash script that displays Holberton School 10 times.
 
 
 ### [4. If 9, say Hi!](./4-if_9_say_hi)
-* Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+* A Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
 
 
 ### [5. 4 bad luck, 8 is your chance](./5-4_bad_luck_8_is_your_chance)
-* Write a Bash script that loops from 1 to 10 and:
+* A Bash script that display bad luck, good luck for 4th and 8th lines, and Holberton in the other lines.
 
-
+<!--
 ### [6. Superstitious numbers](./6-superstitious_numbers)
 * Write a Bash script that displays numbers from 1 to 20 and:
 
