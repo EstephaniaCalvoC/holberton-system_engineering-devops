@@ -20,11 +20,11 @@ What I learned from this project:
 * What are files and other comparison operators, and how to use them
 
 ---
-<!--
+
 ### [0. Create a SSH RSA key pair](./0-RSA_public_key.pub)
-* Read for this task:
+* Public SSH key.
 
-
+<!--
 ### [1. For Holberton School loop](./1-for_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
