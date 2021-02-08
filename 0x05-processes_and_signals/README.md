@@ -46,14 +46,14 @@ What I learned from this project:
 ### [6. Stop me if you can](./6-stop_me_if_you_can)
 * A Bash script that stops 4-to_infinity_and_beyond process.
 
-<!--
+
 ### [7. Highlander](./7-highlander)
-* A Bash script that displays:
+* A Bash script that displays: To infinity and beyond indefinitely, with a sleep 2 in between each iteration, I am invincible!!! when receiving a SIGTERM signal.
 
 
 ### [8. Beheaded process](./8-beheaded_process)
 * A Bash script that kills the process 7-highlander.
--->
+
 ---
 
 ## Author
