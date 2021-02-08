@@ -7,6 +7,7 @@
 - **0x02. Shell, I/O Redirections and filters:** It contains some bash scripts with I/O redirections and special caracters.
 - **0x03-shell_variables_expansions:** It contains some bash scripts with variables and expansions.
 - **0x04-loops_conditions_and_parsing:** 0x04. Loops, conditions and parsing
+- **0x05-processes_and_signals:** 0x05. Processes and signals
 
 ---
 
