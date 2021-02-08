@@ -26,11 +26,11 @@ What I learned from this project:
 ### [1. List your processes](./1-list_your_processes)
 * A Bash script that displays a list of currently running processes.
 
-<!--
+
 ### [2. Show your Bash PID](./2-show_your_bash_pid)
 * A Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
 
-
+<!--
 ### [3. Show your Bash PID made easy](./3-show_your_bash_pid_made_easy)
 * A Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
 
