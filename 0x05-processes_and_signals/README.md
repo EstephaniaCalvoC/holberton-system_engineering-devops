@@ -38,15 +38,15 @@ What I learned from this project:
 ### [4. To infinity and beyond](./4-to_infinity_and_beyond)
 * A Bash script that displays To infinity and beyond indefinitely.
 
-<!---
+
 ### [5. Don't stop my now!](./5-dont_stop_me_now)
-* We stopped our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this.
+* A Bash script that stops 4-to_infinity_and_beyond process.
 
 
 ### [6. Stop me if you can](./6-stop_me_if_you_can)
 * A Bash script that stops 4-to_infinity_and_beyond process.
 
-
+<!--
 ### [7. Highlander](./7-highlander)
 * A Bash script that displays:
 
