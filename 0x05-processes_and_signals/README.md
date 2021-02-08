@@ -22,11 +22,11 @@ What I learned from this project:
 ### [0. What is my PID](./0-what-is-my-pid)
 * A Bash script that displays its own PID.
 
-<!--
+
 ### [1. List your processes](./1-list_your_processes)
 * A Bash script that displays a list of currently running processes.
 
-
+<!--
 ### [2. Show your Bash PID](./2-show_your_bash_pid)
 * A Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
 
