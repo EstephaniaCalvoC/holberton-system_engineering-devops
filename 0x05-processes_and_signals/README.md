@@ -30,7 +30,7 @@ What I learned from this project:
 ### [2. Show your Bash PID](./2-show_your_bash_pid)
 * A Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
 
-<!--
+
 ### [3. Show your Bash PID made easy](./3-show_your_bash_pid_made_easy)
 * A Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
 
@@ -38,7 +38,7 @@ What I learned from this project:
 ### [4. To infinity and beyond](./4-to_infinity_and_beyond)
 * A Bash script that displays To infinity and beyond indefinitely.
 
-
+<!---
 ### [5. Don't stop my now!](./5-dont_stop_me_now)
 * We stopped our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this.
 
