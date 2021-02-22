@@ -13,7 +13,7 @@ Read or watch:
 What I learned from this project:
 
 ---
-<!--
+
 ### [0. Simply matching Holberton](./0-simply_match_holberton.rb)
 
 
@@ -34,7 +34,7 @@ What I learned from this project:
 
 ### [6. Call me maybe](./6-phone_number.rb)
 
-
+<!--
 ### [7. OMG WHY ARE YOU SHOUTING?](./7-OMG_WHY_ARE_YOU_SHOUTING.rb)
 -->
 ---
