@@ -9,12 +9,6 @@ apt-get install -y nginx
 echo "Holberton School" > /var/www/html/index.html
 
 # Configurate server
-printf %s "server {
-        listen 80 default_server;
-	listen [::]:80 default_server;
-	root /var/www/html;
-	index index.html index.htm;
-}
-" > /etc/nginx/sites-available/default
+ufw allow 'Nginx HTTP'
 
 service nginx restart
