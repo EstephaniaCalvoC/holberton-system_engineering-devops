@@ -39,11 +39,11 @@ What I learned from this project:
   * Nginx listens on port 80.
   * When querying Nginx at its root `/` with a `curl` GET request,
   it returns a page containing the string `Holberton School`.
-<!---
+
 * **2. Setup a domain name**
   * [2-setup_a_domain_name](./2-setup_a_domain_name): A text file containing
   the domain name set up for the server through Gandi.
-
+<!---
 * **3. Redirection**
   * [3-redirection](./3-redirection): Bash script that configures a new Ubuntu
   machine with Nginx.
