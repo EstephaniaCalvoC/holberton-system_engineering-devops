@@ -43,7 +43,7 @@ What I learned from this project:
 * **2. Setup a domain name**
   * [2-setup_a_domain_name](./2-setup_a_domain_name): A text file containing
   the domain name set up for the server through Gandi.
-<!---
+
 * **3. Redirection**
   * [3-redirection](./3-redirection): Bash script that configures a new Ubuntu
   machine with Nginx.
@@ -51,7 +51,7 @@ What I learned from this project:
   plus:
     * The location `/redirect_me` returns a `301 Moved Permanently` redirection
     to another page.
-
+<!---
 * **4. Not found page 404**
   * [4-not_found_page_404](./4-not_found_page_404): Bash script that configures
   a new Ubuntu machine with Nginx.

@@ -1,1 +1,17 @@
 #!/usr/bin/env bash
+# Make to /redirect_me is redirecting to another page.
+
+apt-get update
+apt-get install -y nginx
+
+# Create default page
+echo "Holberton School" > /var/www/html/index.html
+
+# Configurate server
+ufw allow 'Nginx HTTP'
+
+# Add redirection
+new_site="https://github.com/EstephaniaCalvoC/"
+sed -i "/listen 80 default_server/a \trewrite ^/redirect_me $new_site permanent;" /etc/nginx/sites-available/default
+
+service nginx restart
