@@ -51,14 +51,14 @@ What I learned from this project:
   plus:
     * The location `/redirect_me` returns a `301 Moved Permanently` redirection
     to another page.
-<!---
+
 * **4. Not found page 404**
   * [4-not_found_page_404](./4-not_found_page_404): Bash script that configures
   a new Ubuntu machine with Nginx.
   * Setup is identical to [1-install_nginx_web_server](./1-install_nginx_web_server)
   plus:
     * Features a custom 404 page containing the string `Ceci n'est pas une page`.
-
+<!--
 * **5. Design a beautiful 404 page**
   * A custom-designed 404 error page for my server, accessible at
   [bdbnb.site/404](http://bdbnb.site/404).
