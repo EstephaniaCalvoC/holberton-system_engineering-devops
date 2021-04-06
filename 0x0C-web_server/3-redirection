@@ -12,6 +12,6 @@ ufw allow 'Nginx HTTP'
 
 # Add redirection
 new_site="https://github.com/EstephaniaCalvoC/"
-sed -i "/listen 80 default_server/a \trewrite ^/redirect_me $new_site permanent;" /etc/nginx/sites-available/default
+sed -i "/listen 80 default_server/a rewrite ^/redirect_me $new_site permanent;" /etc/nginx/sites-available/default
 
 service nginx restart
