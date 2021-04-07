@@ -58,10 +58,9 @@ What I learned from this project:
   * Setup is identical to [1-install_nginx_web_server](./1-install_nginx_web_server)
   plus:
     * Features a custom 404 page containing the string `Ceci n'est pas une page`.
-<!--
+
 * **5. Design a beautiful 404 page**
-  * A custom-designed 404 error page for my server, accessible at
-  [bdbnb.site/404](http://bdbnb.site/404).
+  * This is a customized [404 error page](http://estephaniacalvoc.tech/hola) for my server.
 
 * **6. Deploy fast, deploy well**
   * [fabfile.py](./fabfile.py): A Python Fabric configuration file defining
@@ -79,7 +78,7 @@ What I learned from this project:
     of the remote server.
   * `clean`
     * Deletes the archive `holbertonwebapp.tar.gz` in the local directory.
--->
+
 ---
 
 ## Author
