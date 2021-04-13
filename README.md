@@ -11,6 +11,12 @@
 - **0x06-regular_expressions:** 0x06. Regular expression
 - **0x07-networking_basics:** 0x07. Networking basics #0
 - **0x08-networking_basics_2:** 0x08. Networking basics #1
+- **0x0A-configuration_management:** 0x0A Configuration management
+- **0x0B-ssh:** 0x0B. SSH
+- **0x0C-web_server:** 0x0C. Web server
+- **0x0D-web_stack_debugging_0:** 0x0D. Web stack debugging #0
+- **0x0E-web_stack_debugging_1:** 0x0E. Web stack debugging #1
+- **0x0F-load_balancer:** 0x0F. Load balancer
 
 ---
 
