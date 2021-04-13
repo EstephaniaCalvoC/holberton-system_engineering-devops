@@ -1,1 +1,5 @@
 #!/usr/bin/env bash
+# Configurate nginx to listening on port 80 of all the server’s active IPv4 IPs.
+sed -i 's/ ipv6only=on;/;/g' /etc/nginx/sites-available/default
+cp /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx stop
