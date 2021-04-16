@@ -18,7 +18,7 @@ What I learned from this project:
 
 ---
 ## Tasks:
-<!--
+
 * **0. HTTPS ABC**
   * [0-https_abc](./0-https_abc): Text file containing answers to the
   following questions, one answer per line:
@@ -37,7 +37,7 @@ What I learned from this project:
     * You can host it anywhere but you have to share the link to it on your
     website.
     * On your website web server(s).
-
+<!--
 * **1. World wide web**
   * [1-world_wide_web](./1-world_wide_web): Bash script that displays
   information about subdomains on my configured servers.
