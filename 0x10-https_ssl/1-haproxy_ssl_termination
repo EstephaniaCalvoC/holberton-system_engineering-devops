@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 global
     log     /dev/log local0
     maxconn 2048
