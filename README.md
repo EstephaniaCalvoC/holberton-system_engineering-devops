@@ -18,6 +18,7 @@
 - **0x0E-web_stack_debugging_1:** 0x0E. Web stack debugging #1
 - **0x0F-load_balancer:** 0x0F. Load balancer
 - **0x10-https_ssl:** 0x10. HTTPS SSL
+- **0X12-web_stack_debugging_2:** 0x12. Web stack debugging #1
 - **0x13-firewall:** 0x13. Firewall
 
 ---
