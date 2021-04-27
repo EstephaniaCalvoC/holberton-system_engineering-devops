@@ -20,6 +20,7 @@
 - **0x10-https_ssl:** 0x10. HTTPS SSL
 - **0X12-web_stack_debugging_2:** 0x12. Web stack debugging #1
 - **0x13-firewall:** 0x13. Firewall
+- **0x14-mysql:** 0x14. MySQL
 
 ---
 
