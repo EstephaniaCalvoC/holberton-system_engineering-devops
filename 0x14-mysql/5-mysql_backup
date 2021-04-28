@@ -1,1 +1,15 @@
 #!/usr/bin/env bash
+# Create a MySQL backup
+if [ $# -gt 0 ]
+then
+    PWD=$1
+else
+    PWD=""
+fi
+
+USER="root"
+
+mysqldump --all-databases --user=$USER --password=$PWD > backup.sql
+
+DATE=$(date +"%d-%m-%Y")
+tar -czf "$DATE".tar.gz backup.sql
