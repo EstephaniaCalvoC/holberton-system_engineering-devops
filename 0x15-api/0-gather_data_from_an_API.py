@@ -20,4 +20,4 @@ if __name__ == "__main__":
                                                           len(tasks_completed),
                                                           len(tasks)))
 
-    [print("\t{}".format(task.get("title"))) for task in tasks_completed]
+    [print("\t {}".format(task.get("title"))) for task in tasks_completed]
