@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Export to csv the information about user TODO list progress"""
+import csv
 import requests
 from sys import argv
-import csv
 
 if __name__ == "__main__":
     user_id = argv[1]
