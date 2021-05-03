@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Return information about his/her TODO list progress"""
-import restquests
-import argv from sys
+import requests
+from sys import argv
 
 
 if __name__ == "__main__":
@@ -17,7 +17,7 @@ if __name__ == "__main__":
     tasks_completed = [task for task in tasks if task.get("completed") is True]
 
     print("Employee {} is done with tasks({}/{}):".format(user.get("name"),
-                                                          len(tasks_coompleted),
-                                                          len(taks))))
+                                                          len(tasks_completed),
+                                                          len(tasks)))
 
     [print("\t{}".format(task.get("title"))) for task in tasks_completed]
