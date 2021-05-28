@@ -5,7 +5,7 @@ server {
 	root /var/www/html;
 	index index.html index.htm;
 	location /airbnb-onepage/ {
-		alias ~/Holberton_Projects/Airbnb_clone_v2/;
+		alias ~/Airbnb_clone_v2/;
 		index index.html index.htm;
 		proxy_pass http://0.0.0.0:5000;
 	}
