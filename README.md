@@ -26,6 +26,7 @@
 - **0x17-web_stack_debugging_3:** 0x17. Web stack debugging #3
 - **0x18-webstack_monitoring:** 0x18. Webstack monitoring
 - **0x1A-application_server:** 0x1A. Application server
+- **0x1B-web_stack_debugging_4:** 0x1B. Web stack debugging #4
 
 ---
 
